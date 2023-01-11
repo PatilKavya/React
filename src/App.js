@@ -1,6 +1,5 @@
 import ExpenceItem from './Components/ExpenseItem';
 
-
 function App() {
   return (
     <div>
@@ -9,5 +8,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
